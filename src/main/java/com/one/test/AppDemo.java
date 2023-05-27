@@ -6,7 +6,7 @@ public class AppDemo {
 		
 		
 		System.out.println("It is installed successfully-----");
-		
+            System.out.println("It is installed successfully---one more time--");		
 	}
 
 }

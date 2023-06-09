@@ -9,4 +9,9 @@ public class AppDemo {
             System.out.println("It is installed successfully---one more time--");		
 	}
 
+        void m2(){
+
+     //Bug fix 102 
+
+}
 }
